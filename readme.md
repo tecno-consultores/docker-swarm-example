@@ -16,3 +16,8 @@ docker stack rm example_service
 docker swarm leave --force
 ```
 
+Para forzar reinicio de todas las replicas:
+```bash
+docker service update --force example_service
+```
+
