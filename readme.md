@@ -1,4 +1,4 @@
-#docker-swarm-example
+# docker-swarm-example
 
 Para inicializar:
 ```bash
